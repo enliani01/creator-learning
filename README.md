@@ -13,3 +13,11 @@ Konten yang baik tidak hanya mengejar banyak penonton. Ada tiga tujuan yang sali
 **Berikan alasan untuk kembali.** Bangun ciri khas yang mudah dikenali, seperti gaya miniatur, karakter yang berulang, atau tema penyelamatan dengan cerita berbeda. Satu video boleh sekaligus menarik perhatian, menghibur, dan membuat orang tertarik mengikuti video berikutnya.
 
 Intinya: **buat orang berhenti scrolling, betah menonton, puas setelah selesai, lalu ingin kembali.** Perhatikan video mana yang benar-benar ditonton dan membuat penonton datang lagi. Gunakan hasil itu untuk memperbaiki konten berikutnya, bukan hanya menebak-nebak.
+
+## 2. Belajar dari Penonton yang Berhenti Menonton
+
+Setelah mengunggah video, perhatikan grafik **audience retention** di analytics. Grafik ini menunjukkan berapa banyak penonton yang masih bertahan dari awal sampai akhir. Penurunan perlahan itu wajar, tetapi penurunan tajam bisa membantu menemukan bagian yang perlu diperbaiki.
+
+Kalau banyak penonton langsung pergi di awal, coba perbaiki detik pembuka: tampilkan kejadian menarik lebih cepat. Kalau penonton pergi di tengah, periksa apakah cerita terlalu lama, berulang, atau kehilangan hal yang membuat orang penasaran. Kalau banyak yang pergi menjelang akhir, lihat apakah penutup terlalu panjang atau ajakan untuk subscribe justru mengganggu akhir cerita.
+
+**Jangan langsung menebak penyebab hanya dari bentuk grafik.** Tonton ulang bagian saat penonton mulai pergi, bandingkan beberapa video, lalu perbaiki satu masalah yang paling jelas. Tujuannya bukan membuat grafik sempurna, tetapi belajar membuat video yang semakin enak ditonton.
