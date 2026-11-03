@@ -14,10 +14,19 @@ Konten yang baik tidak hanya mengejar banyak penonton. Ada tiga tujuan yang sali
 
 Intinya: **buat orang berhenti scrolling, betah menonton, puas setelah selesai, lalu ingin kembali.** Perhatikan video mana yang benar-benar ditonton dan membuat penonton datang lagi. Gunakan hasil itu untuk memperbaiki konten berikutnya, bukan hanya menebak-nebak.
 
-## 2. Belajar dari Penonton yang Berhenti Menonton
+## 2. Cara Membaca Grafik Penonton yang Bertahan
 
-Setelah mengunggah video, perhatikan grafik **audience retention** di analytics. Grafik ini menunjukkan berapa banyak penonton yang masih bertahan dari awal sampai akhir. Penurunan perlahan itu wajar, tetapi penurunan tajam bisa membantu menemukan bagian yang perlu diperbaiki.
+Setelah mengunggah video, Liya bisa melihat **Audience Retention** di [YouTube Studio](https://studio.youtube.com/). Di komputer, buka **Konten → pilih video → Analytics → Engagement (Interaksi) → Audience retention**. Di HP, buka aplikasi **YouTube Studio → Konten → pilih video → Analytics → Engagement**. Grafiknya khusus untuk setiap video, bukan grafik keseluruhan channel. Data biasanya perlu **1–2 hari** untuk diproses.
 
-Kalau banyak penonton langsung pergi di awal, coba perbaiki detik pembuka: tampilkan kejadian menarik lebih cepat. Kalau penonton pergi di tengah, periksa apakah cerita terlalu lama, berulang, atau kehilangan hal yang membuat orang penasaran. Kalau banyak yang pergi menjelang akhir, lihat apakah penutup terlalu panjang atau ajakan untuk subscribe justru mengganggu akhir cerita.
+Grafik menunjukkan berapa banyak penonton yang masih menonton pada setiap bagian video. **Bagian kiri adalah awal video, bagian kanan adalah akhir.** Bentuk sederhana di bawah ini hanya ilustrasi, bukan data asli:
 
-**Jangan langsung menebak penyebab hanya dari bentuk grafik.** Tonton ulang bagian saat penonton mulai pergi, bandingkan beberapa video, lalu perbaiki satu masalah yang paling jelas. Tujuannya bukan membuat grafik sempurna, tetapi belajar membuat video yang semakin enak ditonton.
+| Gambaran garis dari awal → akhir | Kemungkinan artinya |
+| --- | --- |
+| `▇▆▅▄▃▂` **Turun perlahan** | Penonton berkurang bertahap; ini umum terjadi. |
+| `█▂▂▁▁▁` **Jatuh di awal** | Pembuka (*hook*) mungkin tidak membuat orang tertarik. Coba mulai dari kejadian paling menarik. |
+| `█▇▇▂▂▁` **Jatuh di tengah** | Ada bagian cerita yang mungkin terlalu lambat, membingungkan, atau kurang menarik. |
+| `█▇▆▅▄▁` **Jatuh di akhir** | Penutup atau ajakan subscribe mungkin terlalu panjang; coba akhiri segera setelah momen yang memuaskan. |
+
+Kalau ada bagian grafik yang **naik**, bisa jadi penonton mengulang bagian tersebut. Jangan langsung menyimpulkan penyebab hanya dari bentuk grafik. **Lihat detik saat garis turun, tonton ulang adegan itu, lalu perbaiki bagian yang paling bermasalah di video berikutnya.** Untuk Shorts yang sangat singkat atau video dengan sedikit penayangan, beberapa tanda khusus di grafik mungkin belum tersedia.
+
+Panduan resmi: [Cara melihat dan memahami Audience Retention — YouTube Help](https://support.google.com/youtube/answer/9314415?hl=id).
